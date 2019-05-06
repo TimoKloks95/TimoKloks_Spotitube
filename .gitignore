@@ -1,0 +1,10 @@
+/.idea/
+/.spotitube.iml/
+/target/
+/src/main/java/nl.han.oose.timokloks/persistence/GetTracksNotInPlaylistTest.java/
+/src/main/java/nl.han.oose.timokloks/persistence/SimpleDBMain.java/
+/src/main/java/nl.han.oose.timokloks/resources/LastTrackTest.java/
+/src/main/java/nl.han.oose.timokloks/service/AddPlaylistTest.java/
+/src/main/java/nl.han.oose.timokloks/service/AddPlaylistTest.java/
+/src/main/java/nl.han.oose.timokloks/util/PropertyReader.java/
+

@@ -12,6 +12,7 @@ public class PlaylistDAO {
 
     private final ConnectionFactory connectionFactory = new ConnectionFactory();
     private PlaylistAssembler playlistAssembler;
+    private int test = 0;
 
     public PlaylistDAO() {
 
